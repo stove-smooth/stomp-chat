@@ -1,4 +1,4 @@
-# sockjs
+# STOMP CONNECT
 
 ## Project setup
 ```
